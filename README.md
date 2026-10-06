@@ -2,7 +2,7 @@
 
 ### Hello, I'm Arshu 👋
 
-- 🔭 I’m currently Software Engineer MetLife. 
+- 🔭 I’m currently Software Engineer at MetLife. 
 - 🌱 I’m completed my Bachelor from NIT Raipur
 - 👯 I’m looking to collaborate on open source community.
 - 💬 Ask me about DSA
