@@ -2,8 +2,8 @@
 
 ### Hello, I'm Arshu 👋
 
-- 🔭 I’m currently MCA student @NIT, Raipur. 
-- 🌱 I’m currently learning Development.
+- 🔭 I’m currently Software Engineer MetLife. 
+- 🌱 I’m completed my Bachelor from NIT Raipur
 - 👯 I’m looking to collaborate on open source community.
 - 💬 Ask me about DSA
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/arshu-gupta/)
